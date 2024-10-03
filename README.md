@@ -41,8 +41,17 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 </html>
 ```
 
-### COmo poner un link
+### Como poner un link
 [Pagina web de Jesuites Bellvitge](https://www.fje.edu/ca/fje "Titulo opcional")
 
 ### Comom poner una imagen
 ![Esto es una foto](https://inhispania.com/wp-content/uploads/2021/05/1.jpg "Esto es un foton de si")
+
+Una tabla:
+
+|Titulo 1| Titulo 2| Titulo 3 |
+|---------------|:------------:|---------:|
+|SMX2 |Curso 2324|25|
+|**ASIX1**|Curso 2425|33|
+|DAW2|Curso 2425|32|
+
