@@ -55,3 +55,6 @@ Una tabla:
 |**ASIX1**|Curso 2425|33|
 |DAW2|Curso 2425|32|
 
+EEEEEEEEEEEESSSSSSTSOOOOOOOOOOOOOO EEEEEEEEEEESSSSSS IMprtante!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+El estilo zebra hace que se mas facil seguir allinea de las tablas  asi que lo hace por defecto esto github.
+
