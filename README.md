@@ -45,4 +45,4 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 [Pagina web de Jesuites Bellvitge](https://www.fje.edu/ca/fje "Titulo opcional")
 
 ### Comom poner una imagen
-![Texto alternativo](/si.jpg "Titulo opcional")
+![Esto es una foto](https://inhispania.com/wp-content/uploads/2021/05/1.jpg "Esto es un foton de si")
